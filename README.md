@@ -24,5 +24,5 @@
 	// do stuff
 }
 	```
-Finally, this is the last pargraph with **dold** text and *italics* and `code`.
+Finally, this is the last pargraph with **bold** text and *italics* and `code`.
 
